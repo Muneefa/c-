@@ -1,0 +1,15 @@
+C:\Users\rabmu\Documents\ageofperson\bin\Debug\net6.0\ageofperson.exe
+C:\Users\rabmu\Documents\ageofperson\bin\Debug\net6.0\ageofperson.deps.json
+C:\Users\rabmu\Documents\ageofperson\bin\Debug\net6.0\ageofperson.runtimeconfig.json
+C:\Users\rabmu\Documents\ageofperson\bin\Debug\net6.0\ageofperson.dll
+C:\Users\rabmu\Documents\ageofperson\bin\Debug\net6.0\ageofperson.pdb
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.csproj.AssemblyReference.cache
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.AssemblyInfoInputs.cache
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.AssemblyInfo.cs
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.csproj.CoreCompileInputs.cache
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.dll
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\refint\ageofperson.dll
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.pdb
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ageofperson.genruntimeconfig.cache
+C:\Users\rabmu\Documents\ageofperson\obj\Debug\net6.0\ref\ageofperson.dll

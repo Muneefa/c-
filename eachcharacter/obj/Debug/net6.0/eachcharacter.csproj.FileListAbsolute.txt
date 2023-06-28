@@ -1,0 +1,15 @@
+C:\Users\rabmu\Documents\eachcharacter\bin\Debug\net6.0\eachcharacter.exe
+C:\Users\rabmu\Documents\eachcharacter\bin\Debug\net6.0\eachcharacter.deps.json
+C:\Users\rabmu\Documents\eachcharacter\bin\Debug\net6.0\eachcharacter.runtimeconfig.json
+C:\Users\rabmu\Documents\eachcharacter\bin\Debug\net6.0\eachcharacter.dll
+C:\Users\rabmu\Documents\eachcharacter\bin\Debug\net6.0\eachcharacter.pdb
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.csproj.AssemblyReference.cache
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.AssemblyInfoInputs.cache
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.AssemblyInfo.cs
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.csproj.CoreCompileInputs.cache
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.dll
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\refint\eachcharacter.dll
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.pdb
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\eachcharacter.genruntimeconfig.cache
+C:\Users\rabmu\Documents\eachcharacter\obj\Debug\net6.0\ref\eachcharacter.dll

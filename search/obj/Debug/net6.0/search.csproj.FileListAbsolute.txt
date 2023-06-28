@@ -1,0 +1,15 @@
+C:\Users\rabmu\Documents\search\bin\Debug\net6.0\search.exe
+C:\Users\rabmu\Documents\search\bin\Debug\net6.0\search.deps.json
+C:\Users\rabmu\Documents\search\bin\Debug\net6.0\search.runtimeconfig.json
+C:\Users\rabmu\Documents\search\bin\Debug\net6.0\search.dll
+C:\Users\rabmu\Documents\search\bin\Debug\net6.0\search.pdb
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.csproj.AssemblyReference.cache
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.AssemblyInfoInputs.cache
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.AssemblyInfo.cs
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.csproj.CoreCompileInputs.cache
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.dll
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\refint\search.dll
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.pdb
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\search.genruntimeconfig.cache
+C:\Users\rabmu\Documents\search\obj\Debug\net6.0\ref\search.dll
